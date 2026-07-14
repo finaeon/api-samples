@@ -192,5 +192,5 @@ See [../v1/README.md](../v1/README.md) for the v1 documentation.
 
 ## Resources
 
-- [Terms of Service](https://gfdpolicies.blob.core.windows.net/legal/Terms.pdf)
+- [Terms of Service](https://finaeonpolicies.blob.core.windows.net/legal/Terms.pdf)
 - Sales / subscription upgrades: [sales@finaeon.com](mailto:sales@finaeon.com)

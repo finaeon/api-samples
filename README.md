@@ -32,4 +32,4 @@ Fundamentals data and pre-2019 stock history require an upgraded subscription â€
 
 ## Resources
 
-- [Terms of Service](https://gfdpolicies.blob.core.windows.net/legal/Terms.pdf)
+- [Terms of Service](https://finaeonpolicies.blob.core.windows.net/legal/Terms.pdf)
